@@ -1,6 +1,6 @@
 '''2025 Author: Nikitha D <dnikitha2020@gmail.com>'''
 '''
-Dependencies : numpy matplotlib
+Dependencies : numpy, matplotlib
 Description:
       This Python script visualizes different line encoding techniques used in digital communication.
       It takes a binary input and generates signals for NRZ, RZ, Manchester, Differential Manchester, AMI, and Pseudoternary encoding. 
